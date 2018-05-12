@@ -5,7 +5,7 @@ Using the JavaFX-effect javafx.scene.effect.DisplacementMap we want arbitrary
 Node-objects to appear curved.
 This is illustrated in the sketch below:
 <div align="center">
-<img src="parameterization.svg" alt="drawing" style="width: 500px;"/>
+<img src="img/parameterization.svg" alt="drawing" style="width: 500px;"/>
 </div>
 
 We start out with a Node which occupies a rectangular area (a).
